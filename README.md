@@ -1,2 +1,1 @@
-pb_sqirksqueeze
-===============
+Squeeze sq'irks into sq'irkjuice.
